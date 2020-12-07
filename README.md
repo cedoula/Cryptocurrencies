@@ -50,7 +50,7 @@ We can identify the outliers like the unique cryptocurrency making the class #2.
 <p align="center">
     <img src="https://user-images.githubusercontent.com/68669675/101307931-41d35a80-380e-11eb-942f-7a8f23887d05.png"> 
 </p>
-Most of the cryptocurrencies are part of class #0 and #1.\
+Most of the cryptocurrencies are part of class #0 and #1.<br>
 The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
 <br><br>
 
